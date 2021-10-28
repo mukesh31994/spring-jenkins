@@ -27,7 +27,7 @@ public class SpringJenkinsApplication {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Welcome to Docker by MUKESH Version2";
+		return "Welcome to Docker by MUKESH Version2 ";
 	}
 
 }
