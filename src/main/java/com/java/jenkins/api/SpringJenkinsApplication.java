@@ -32,7 +32,7 @@ public class SpringJenkinsApplication {
 	
 	@GetMapping("/")
 	public String home() {
-		return "Hello world by mukesh 3";
+		return "Hello world by mukesh3";
 	}
 
 }
